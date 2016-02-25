@@ -1,6 +1,6 @@
 {
   "name": "garbjs",
-  "version": "5.2.1",
+  "version": "5.2.4",
   "description": "GarbJS is a simple chat addon that can be implemented into virtually any existing chat client.",
   "main": "index.js",
   "scripts": {
