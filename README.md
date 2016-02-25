@@ -46,10 +46,10 @@ Having issues? Try reinstalling.<br>
 You can use <code>--bugreport</code> to report any bugs you may be running into using our package.
 
 <h2>Changelog</h2>
-Want to keep up to date on changes? Check out our GitHub page to see all the latest updates.
+Want to keep up to date on changes? Check out our <a href="https://github.com/MarkDeficio/GarbJS">GitHub page</a> to see all the latest updates.
 
 <h2>Dependencies</h2>
-GarbJS requires you have npm and gulp installed on your machine.
+GarbJS requires you have <a href="https://www.npmjs.com/package/npm">npm</a> and <a href="https://www.npmjs.com/package/gulp">gulp</a> installed on your machine.
 
 <h2>References &amp; Articles</h2>
 <ul>
